@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\хуйня\c#\CheckRestRequests\obj\Debug\net7.0\CheckRestRequests.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\хуйня\c#\CheckRestRequests\obj\Debug\net7.0\CheckRestRequests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\хуйня\c#\CheckRestRequests\obj\Debug\net7.0\CheckRestRequests.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\хуйня\c#\CheckRestRequests\obj\Debug\net7.0\CheckRestRequests.AssemblyInfo.cs
+C:\Users\user\Desktop\хуйня\c#\CheckRestRequests\obj\Debug\net7.0\CheckRestRequests.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\хуйня\c#\CheckRestRequests\bin\Debug\net7.0\CheckRestRequests.exe
+C:\Users\user\Desktop\хуйня\c#\CheckRestRequests\bin\Debug\net7.0\CheckRestRequests.deps.json
+C:\Users\user\Desktop\хуйня\c#\CheckRestRequests\bin\Debug\net7.0\CheckRestRequests.runtimeconfig.json
+C:\Users\user\Desktop\хуйня\c#\CheckRestRequests\bin\Debug\net7.0\CheckRestRequests.dll
+C:\Users\user\Desktop\хуйня\c#\CheckRestRequests\bin\Debug\net7.0\CheckRestRequests.pdb
+C:\Users\user\Desktop\хуйня\c#\CheckRestRequests\obj\Debug\net7.0\CheckRestRequests.dll
+C:\Users\user\Desktop\хуйня\c#\CheckRestRequests\obj\Debug\net7.0\refint\CheckRestRequests.dll
+C:\Users\user\Desktop\хуйня\c#\CheckRestRequests\obj\Debug\net7.0\CheckRestRequests.pdb
+C:\Users\user\Desktop\хуйня\c#\CheckRestRequests\obj\Debug\net7.0\CheckRestRequests.genruntimeconfig.cache
+C:\Users\user\Desktop\хуйня\c#\CheckRestRequests\obj\Debug\net7.0\ref\CheckRestRequests.dll
